@@ -1,6 +1,7 @@
 #write your code here
 
 def countdown
+  countdown -= 1
     puts "#{number} SECOND(S)!"
     return "HAPPY NEW YEAR!"
 end
