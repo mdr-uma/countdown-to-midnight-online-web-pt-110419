@@ -1,10 +1,10 @@
 #write your code here
 
 def countdown
-  countdown -= 1
+  countdown_output -= 1
     puts "#{number} SECOND(S)!"
 end
-return "HAPPY NEW YEAR!"
+
 
 
 
